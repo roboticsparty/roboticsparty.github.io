@@ -77,12 +77,23 @@ footer {
     text-align: center;
     padding: 1rem;
 }
-.leader-image {
-    width: 150px;  /* Reduced width */
-    height: auto;
-    border-radius: 50%;  /* Circular shape */
-    margin-top: 1rem;
+.team-member {
+    text-align: center;
+    margin: 2rem 0;
 }
+
+.team-image {
+    width: 120px;  /* Smaller than the leader */
+    height: auto;
+    border-radius: 50%;  /* Circular image */
+    margin-bottom: 0.5rem;
+}
+
+.team-member p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
 
 
 footer a {
