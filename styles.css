@@ -77,6 +77,13 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+.leader-image {
+    width: 150px;  /* Reduced width */
+    height: auto;
+    border-radius: 50%;  /* Circular shape */
+    margin-top: 1rem;
+}
+
 
 footer a {
     color: #4d4dff;
