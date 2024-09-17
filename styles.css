@@ -3,6 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Add this to your styles.css */
+
+#leader {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.leader-image {
+    width: 250px;  /* Adjust the width based on your preference */
+    height: auto;
+    border-radius: 50%;  /* Makes the image a circle */
+    margin-top: 1rem;
+}
 
 body {
     font-family: Arial, sans-serif;
